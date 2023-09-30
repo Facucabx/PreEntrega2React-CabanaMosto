@@ -1,0 +1,52 @@
+*{
+  text-decoration: none;
+}
+nav{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  text-decoration: none;
+}
+Link{
+  text-decoration: none;
+}
+h3{
+color: rgb(222, 223, 226);
+}
+.ActiveOption{
+  color: rgb(252, 252, 252);
+  font-weight: bold;
+
+}
+.NavBar{
+  background-color: rgba(12, 45, 134, 0.911);
+  margin: 1rem;
+  padding: 0.5rem;
+  border-style: none;
+  text-decoration: none;
+}
+.cardCar{
+  background-color: rgb(226, 228, 231);
+  padding: 0.5rem;
+  color: rgb(0, 140, 255);
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+}
+/* botones */
+.Option{ 
+  text-decoration: none;
+  margin: 1rem;
+  font-weight: bold;
+  color: rgb(169, 186, 241);
+}
+.ItemDetailContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.ListGroup{
+  display: flex;
+  justify-content:center;
+}
